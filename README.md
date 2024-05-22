@@ -12,5 +12,5 @@ python3 ./main.py
 ```
 
 ```bash
-docker run --rm -e DISCORD_TOKEN='YOUR_TOKEN_HERE' ghcr.io/gedasfx/discord-fxtwitter:latest
+docker run --rm -e DISCORD_TOKEN='YOUR_TOKEN_HERE' ghcr.io/gedasfx/discord-fxtwitter
 ```
